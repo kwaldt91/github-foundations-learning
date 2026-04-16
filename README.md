@@ -1,9 +1,5 @@
-# This is the readme
+# Sample site
 
-## blah blah
+## some other heading
 
-### Other blah blah
-
-* blah 1
-* blah 2
-* blah 3
+## Blah blah
